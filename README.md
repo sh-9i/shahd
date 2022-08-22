@@ -1,4 +1,4 @@
-https://www.tinkercad.com/things/bkApPvatEXa-copy-of-arduino-npn-transistor-dc-motor/editel?tenant=circuits
+https://www.tinkercad.com/things/gTBpKwxaZXx-copy-of-arduino-npn-transistor-dc-motor/editel?sharecode=9doiK96Ymj1ThfZhAc3MQFHaA3uNHEtU9DTrKkJLepQ
 
 i have arduino - battery 9v - breadboard small - DC motor - transistor - wires for connecting
 1- first i connect the battery 9v by breadboard small
